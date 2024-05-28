@@ -22,7 +22,7 @@ window.title("YouTube Downloader")
 window.geometry("600x600")
 window.configure(bg="gray29")
 
-# Create the URL label and entry
+# Create the URL label and entry in test.py
 url_label = tk.Label(window, text="Enter YouTube URL:", font=("Britannic Bold", 16), bg="#F2F2F2")
 url_label.pack(pady=20)
 
