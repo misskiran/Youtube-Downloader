@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from pytube import YouTube
 
+
 def download_video():
     url = url_entry.get()
     try:
